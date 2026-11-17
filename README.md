@@ -3,13 +3,13 @@
 # Leyna
 ### Cyber Security · Systems/Engine Dev · Rhythm Games
 
-<a href="https://github.com/Leinadix">
-  <img src="https://komarev.com/ghpvc/?username=leinadix&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
+<a href="https://github.com/leyna64">
+  <img src="https://komarev.com/ghpvc/?username=leyna64&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
 </a>
 
 <!-- Fixed: GitHub Profile Trophy (correct endpoint + common rendering options) -->
 <img
-  src="https://github-profile-svg.vercel.app/api/profile?username=Leinadix&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=6"
+  src="https://github-profile-svg.vercel.app/api/profile?username=leyna64&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=6"
   alt="GitHub Profile Trophy"
 />
 
@@ -41,7 +41,7 @@
 
 ### 🧪 Language & TUI Experiments
 - Parsers, tooling, terminal interfaces  
-- https://github.com/Leinadix/alpha_tui
+- https://github.com/leyna64/alpha_tui
 
 ---
 
@@ -69,12 +69,12 @@
 <!-- Fixed: GitHub Readme Stats (correct endpoints + common reliability params) -->
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=leinadix&show_icons=true&hide_title=true&theme=dracula&rank_icon=github&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=leyna64&show_icons=true&hide_title=true&theme=dracula&rank_icon=github&cache_seconds=86400"
     alt="GitHub Stats"
     height="160"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leinadix&layout=compact&theme=dracula&hide_title=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leyna64&layout=compact&theme=dracula&hide_title=true&cache_seconds=86400"
     alt="Top Languages"
     height="160"
   />
