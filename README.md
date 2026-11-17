@@ -4,7 +4,7 @@
 ### Cyber Security · Systems/Engine Dev · Rhythm Games
 
 <a href="https://github.com/leyna64">
-  <img src="https://komarev.com/ghpvc/?username=leyna64&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Leinadix&label=Profile%20Views&color=7c3aed&style=flat" alt="Profile Views" />
 </a>
 
 <!-- Fixed: GitHub Profile Trophy (correct endpoint + common rendering options) -->
