@@ -1,6 +1,6 @@
 <div align="center">
 
-# Leyna (Leinadix)
+# Leyna
 ### Cyber Security · Systems/Engine Dev · Rhythm Games
 
 <a href="https://github.com/Leinadix">
